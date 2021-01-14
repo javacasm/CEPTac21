@@ -1,15 +1,14 @@
-# Curso de Iniciación a la Programación, Robótica, 3D y a la Realidad Aumentada para CEP de Granada ([201811GE152](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/201811GE152/))
+# Curso de Iniciación a la Programación, Robótica, 3D y a la Realidad Aumentada para CEP de Granada (_)_
 
 ## Curso del CEP de Granada
 
 ## José Antonio Vacas @javacasm 
 
-# http://bit.ly/CEPTac20
 
 ![Licencia CC](./images/Licencia_CC.png)
 
 
-Curso Semipresencial    18 + 15 horas
+Curso Semipresencial: 5 sesiones online de 2,5h + trabajo personal 15h
 
 ## Objetivos
 
@@ -66,10 +65,5 @@ El curso cuenta con una parte no presencial que se justificará mediante el dis
 
 |Fecha	|Horario
 |---|---
-|21/01/2020|17:00-20:00
-|28/01/2020|17:00-20:00
-|04/02/2020|17:00-20:00
-|11/02/2020|17:00-20:00
-|25/02/2020|17:00-20:00
-|21/04/2020|17:00-20:00
+
 
