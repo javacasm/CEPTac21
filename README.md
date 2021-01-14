@@ -4,11 +4,11 @@
 
 ## José Antonio Vacas @javacasm 
 
+http://bit.ly/CEPTac21
 
 ![Licencia CC](./images/Licencia_CC.png)
 
-
-Curso Semipresencial: 5 sesiones online de 2,5h + trabajo personal 15h
+Curso Semipresencial: 5 sesiones online de 2,5h + trabajo personal 15h + Sesión final de exposición
 
 ## Objetivos
 
@@ -34,7 +34,7 @@ El objetivo del presente curso es el utilizar estas herramientas para realizar d
 1. [Introducción a la robótica](./IniciacionRobotica.md)
 1. [Diseño](Tinkercad.md) e [impresión 3D](./Impresion3D.md). [Repositorios de modelos](./repositorios.md)
 1. [Arduino](./arduinoBlocks.md) y [Echidna shield](./Echidna.md)
-1. Realidad virtual y aumentada
+1. [Realidad virtual y aumentada](./RealidadA/README.md)
 1. Experiencias de aula 
 
 ## Descripción
