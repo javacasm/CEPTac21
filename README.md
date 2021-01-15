@@ -8,7 +8,7 @@ http://bit.ly/CEPTac21
 
 ![Licencia CC](./images/Licencia_CC.png)
 
-Curso Semipresencial: 5 sesiones online de 2,5h + trabajo personal 15h + Sesión final de exposición
+Curso Semipresencial: 5 sesiones online de 2h + trabajo personal 15h + Sesión final de exposición
 
 ## Objetivos
 
@@ -63,7 +63,11 @@ El curso cuenta con una parte no presencial que se justificará mediante el dis
 
 ## Sesiones de la actividad
 
-|Fecha	|Horario
-|---|---
-
-
+Fecha	|Horario
+---|---
+3/2/2021|17:00-19:00
+10/2/2021|17:00-19:00
+17/2/2021|17:00-19:00
+24/2/2021|17:00-19:00
+3/3/2021|17:00-19:00
+6/4/2021|17:00-19:00
