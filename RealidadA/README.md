@@ -16,13 +16,23 @@ Puedes encontrar un ejemplo de realidad aumenta en el catálogo de IKEA
 
 También en las aplicaciones instagram o snapchat: sus filtros son 
 
-[Historia](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/conceptos-basicos-historia.html)
+[Historia](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/conceptos-basicos-historia.md)
 
 ### Cursos
 
 [Introducción a la Realidad Aumentada](https://moodle.catedu.es/course/view.php?id=7)
 
 [Seminario sobre realidad aumentada](https://aalonsogr.webnode.es/seminario-de-coordinadores-ryc-primaria-/realidad-aumentada/)
+
+[Documentacion](https://github.com/catedu/introduccion-a-la-realidad-aumentada)
+
+### Aplicaciones
+
+[Aplicaciones para infantil](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/apps-de-realidad-aumentada-ed-infantil.md)
+
+[Aplicaciones para primaria](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/apps-de-realidad-aumentada-ed-primaria.md)
+
+[Aplicaciones secundaria y bachillerato](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/apps-de-realidad-aumentada-ed-secundaria-bachillerato.md)
 
 ### Creación de contenidos
 
