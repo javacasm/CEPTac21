@@ -86,7 +86,7 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ![cuadradoConBucle](../images/CuadradoConBucle.png)
 
-* * *
+
 
 ### ¿ Y si hacemos más de 4 giros?
 

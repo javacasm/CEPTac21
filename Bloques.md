@@ -12,7 +12,7 @@
 #### ¿quién está detrás?
 
 
-* * *
+
 
 ### Vamos a hacer pequeños programas para ayudar a nuestros amigos
 
@@ -26,4 +26,4 @@
 
 ## Otras iniciativas
 
-[Aprende a programar con blocky](http://www.aprendeprogramando.es/blockly/modules)
+[Aprende a programar con Blockly](http://www.aprendeprogramando.es/blockly/modules)

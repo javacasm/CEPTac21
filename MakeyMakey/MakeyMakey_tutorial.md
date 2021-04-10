@@ -4,7 +4,7 @@
 
 Surgió de un proyecto de KickStarted
 
-* ¿Cuanto cuesta? - 50€
+* ¿Cuánto cuesta? - 50€
 
 * ¿Qué es? Sacar de [aquí](https://lilydev.wordpress.com/2013/04/16/the-awesomeness-of-makey-makey/)
 

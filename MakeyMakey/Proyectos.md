@@ -46,7 +46,7 @@ Son 4 las fases para construir un Robot
   * CPU (usamos un tipo especial llamado microncontroladores - Arduino)
   * Interruptores
   * Sensores
-4. Informatica: crearemos un programa capaz de controlar los elementos y hacer cumplir al robot las funciones que necesitamos	    
+4. Informática: crearemos un programa capaz de controlar los elementos y hacer cumplir al robot las funciones que necesitamos	    
 
 ## Organización del material
 
@@ -74,7 +74,7 @@ Programa para que Osito reconozca las frutas
 
 ## Quiz
 
-Usamos una make-makey para que el usuario encuentre las correspondencias. Un sencillo programa tiene las respuestas correctas. Cada una de las preguntas/respuestas están conectadas a makey-makey y el usuario conectado a tierra tiene que tocar las parejas
+Usamos una makey-makey para que el usuario encuentre las correspondencias. Un sencillo programa tiene las respuestas correctas. Cada una de las preguntas/respuestas están conectadas a makey-makey y el usuario conectado a tierra tiene que tocar las parejas
 
 ![](../images/Proyecto3b.jpg)
 ![](../images/Proyecto3.jpg)
@@ -126,7 +126,7 @@ Una Makey-Makey nos permite detectar cuál forma estamos tocando
 
 Usamos una placa Makey-makey para reproducir distintos sonidos
 
-![](../images/bateria.png)
+![](../images/MMBateria.png)
 
 ![](../images/Notas.png)
 ![](../images/instrumento.png)
@@ -148,3 +148,4 @@ Sistema para hacer votaciones similar a KaHoot
 ## Emociones
 
 ![](../images/Emociones.jpg)
+

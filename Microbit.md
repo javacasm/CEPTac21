@@ -1,18 +1,17 @@
-# BBC-microbit
+# BBC micro:bit
 
-![microbit front](http://microbit.org/images/microbit-front.png)
-![microbit back](http://microbit.org/images/microbit-back.png)
+![micro:bit]./images/microbit.png)
 
 [Fundación microbit](http://microbit.org/es/)
 
-[Microbit es totalmente opensource](https://www.microbit.co.uk/open_source)
+[Microbit es totalmente Open Source](https://www.microbit.co.uk/open_source)
 
 [Github de microbit](https://github.com/bbcmicrobit)
 
 ### [Hardware](http://microbit.org/es/hardware/)
 
-
 ![hardware](http://microbit.org/images/microbit-hardware.png)
+
 ![pinout](https://cdn-blog.adafruit.com/uploads/2017/03/microbit_pinout_v10.png)
 
 ![pinout2](https://microbit.org/images/microbit-pins.jpg)
@@ -21,10 +20,9 @@
 
 Funciona a 3V y dispone de un conector de bateria y de alimentación por USB (MicroUSB)
 
-
 #### Micro
-ARM M0 (32 bits) a 16MHz con 16k de RAM
 
+ARM M0 (32 bits) a 16MHz con 16k de RAM
 
 #### [Sensores](https://microbit.org/guide/features/)
 
@@ -33,7 +31,6 @@ ARM M0 (32 bits) a 16MHz con 16k de RAM
 * 2 Botones
 * 3 entradas analógicas (0,1,2)
 * 20 pines I/O
-
 
 #### Comunicaciones
 
@@ -79,10 +76,7 @@ http://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
 
 ![robot](https://cdn.instructables.com/F0W/1HA0/J30ST2ON/F0W1HA0J30ST2ON.LARGE.jpg)
 
-#### [MaQueen](./MaQueen.md)
-
-![Maqueen](https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/ROB0148Maqueen.jpg)
-
+![Maqueen](./images/ROB0148Maqueen.jpg)
 
 ### Documentación
 
@@ -97,15 +91,17 @@ http://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
 ### Recursos
 
 [Nice review](https://www.youtube.com/watch?v=7qnSsc54bEQ)
+
 * Usar  url sencillas y que estén visibles
 * CPU https://en.wikipedia.org/wiki/Micro_Bit#Hardware
+
         Nordic nRF51822 – 16 MHz 32-bit ARM Cortex-M0 microcontroller, 256 KB flash memory, 16 KB static ram
  
-Permite usar Batería con voltaje entre  https://support.microbit.org/support/solutions/articles/19000013982-how-do-i-power-my-micro-bit-
+[Alimentación](https://support.microbit.org/support/solutions/articles/19000013982-how-do-i-power-my-micro-bit-)
 
 * Sensor de temperatura está en la CPU (https://microbit.org/es/guide/temperature/)
 
-No necesitamos instalar nada, funciona via web y en tablet/móviles  
+No necesitamos instalar nada, funciona vía web y en tablet/móviles  
 
 Se puede programar con bloques, javascript, python, C++ de Arduino...
 
@@ -117,9 +113,10 @@ Los programas se guardan por defecto en nuestro navegador
 
 Seleccionamos el idioma
 
-![language](./images/SelecionarIdioma.png)
+![idioma](./images/SelecionarIdioma.png)
 
 La pantalla: 
+
 * A la izquierda, Podemos simular nuestro programa
 * Centor las paletas de bloques
 * Bloques de mi programa
@@ -130,7 +127,7 @@ Añadir nuestros bloques en onStart (para que se ejecute al principio) o forever
 
 EJEMPLO [HOLA MUNDO](https://makecode.microbit.org/_MfyHdrLXVWqL)
 
-![HolaMundo](./images/HolaMundo.png)
+![Hola Mundo](./images/HolaMundo.png)
 
 Podemos cambiar el nombre
  
@@ -140,12 +137,14 @@ Una vez que tenemos un programa vamos a reprogramar la Microbit
 1. Aparece una unidad llamada Microbit
 1. Descargamos el programa
 1. Lo copiamos a la unidad Microbit (veremos como parpadea el led naranja)
+
 (En un tablet o móvil necesitaremos un cable OTG)
 
 Usamos el sensor de temperatura (que está en la CPU con lo que no es muy preciso)
 
 
 EJEMPLO de temperatura
+
 1. Mostrar temperatura
 1. Mostrar la temperatura en forma de barra
 
@@ -159,8 +158,6 @@ EJEMPLO: Control de iluminación digital y analógico
 [Control de iluminación](https://makecode.microbit.org/_YqD3MePtK6gU)
 
 ![Control iluminación](./images/ControlIluminacion.png)
-
-
 
 [Control de iluminación II](https://makecode.microbit.org/_7ayKTtKvXFcc)
 
@@ -179,7 +176,7 @@ EJEMPLO: [¿a quién le toca?](https://makecode.microbit.org/_f9EhoRAp1eoR)
 * B decrementa 
 * agitado pone número aleatorio
 
-![A quien le toca](./images/AquienLeToca.png)
+![A quién le toca](./images/AquienLeToca.png)
 
 ## Juegos
 
@@ -202,15 +199,7 @@ EJEMPLO: dado digital
 
 Permiten usar extensiones que añaden más bloques 
 
-
 PROYECTO termostato: los botones fijan la temperatura objetivo y la otra barra nos muestra la temperatura actual
 
-PROYECTO maquinilla de numeros (innalámbrica)
-
-
-
-# TODO
-
-¿Recuperar programas de otro navegador?
-Trabajar con la comunicacion serie
-    
+PROYECTO maquinilla de números (innalámbrica)
+ 

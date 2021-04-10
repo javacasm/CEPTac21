@@ -45,7 +45,7 @@ Podemos ejecutar movimientos o reposicionarlo sin más que hacer doble click en 
 
 ![cuadradoConBucle](../images/CuadradoConBucle.png)
 
-* * *
+
 
 ### ¿ Y si hacemos más de 4 giros?
 

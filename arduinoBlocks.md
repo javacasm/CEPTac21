@@ -17,14 +17,15 @@
 ## Ha permitido que millones de personas consigan hacer lo que antes sólo hacían los ingenieros
 
 ### Arduino es:
+
 * Una placa
 * Un entorno de programación, con sus librerías y ejemplos
 * Una documentación
 
 
-## TODO Open Source
+## Open Source
 
-![200px-Open-source-hardware-logo.svg.png](./images/200px-Open-source-hardware-logo.svg.png)
+![Open source hardware logo](./images/200px-Open-source-hardware-logo.svg.png)
 
 ### Se creó en [2005](https://es.wikipedia.org/wiki/Arduino) 
 ### Desde entonces no ha parado de 
@@ -38,12 +39,12 @@ Arduino es un microcontrolador (microordenador que controla cosas) de diseño ab
 
 #### Así lo vemos nosotros
 
-![Arduino_Uno_-_R3](./images/Arduino_Uno_-_R3.jpg)
+![Arduino Uno - R3](./images/Arduino_Uno_-_R3.jpg)
 
 
 #### Así es internamente
 
-![Arduino_Uno_pinout.png](./images/Arduino_Uno_pinout.png)
+![Arduino Uno pinout](./images/Arduino_Uno_pinout.png)
 
 [Más detalle](./images/ArduinoUno_R3_Front.jpg)
 
@@ -82,21 +83,21 @@ Arduino es un microcontrolador (microordenador que controla cosas) de diseño ab
 
 ### Parpadeando el led interno
 
-![blink](./images/tumblr_mj00x5CdpR1s6tqslo1_500.gif)
+![Parpadeo - blink](./images/tumblr_mj00x5CdpR1s6tqslo1_500.gif)
 
 ArduinoBlocks es un entorno de programación visual por bloques que nos permite programar nuestra placa arduino o compatible de forma sencilla, evitando la complejidad de las sentencias C++
 
-Además nos permite programar nuestro arduino sin instalar (practicamente) nada en nuestro ordenador
+Además nos permite programar nuestro arduino sin instalar (prácticamente) nada en nuestro ordenador
 
 Empezaremos seleccionando el tipo de placa Arduino que vamos a usar y a continuación añadiremos el hardware que usemos conectándolo a las patillas correspondientes.
 
-![Blink13](./images/Blink13.png)
+![Parpadeo - blink - pin 13](./images/Blink13.png)
 
 [Programa](http://www.arduinoblocks.com/web/project/174285)
 
 #### Ejercicio: Cambiar la velocidad de parpadeo
 
-* * *
+
 
 ## Con led externo
 
@@ -112,17 +113,15 @@ Empezaremos seleccionando el tipo de placa Arduino que vamos a usar y a continua
 
 #### Regulando la velocidad de parpadeo
 
-#### Regulando el brillo
-
 ![](./images/Led3_regulableUno_bb.png)
 
-* * *
+
 
 ### Esquema eléctrico
 
 ![led externo](./images/ExampleCircuit_sch.png)
 
-* * *
+
 
 ## Con un relé usaremos ¡¡grandes corrientes eléctricas!!
 
@@ -132,7 +131,7 @@ Empezaremos seleccionando el tipo de placa Arduino que vamos a usar y a continua
 
 # Envío de datos serie
 
-### La comunicación serie se produce via USB entre Arduino y el PC
+### La comunicación serie se produce vía USB entre Arduino y el PC
 
 * Detectamos el puerto
 * Configuramos la velocidad
@@ -140,7 +139,7 @@ Empezaremos seleccionando el tipo de placa Arduino que vamos a usar y a continua
 
 ## Vamos a enviar "On" y "Off" al PC
 
-![ParpadeoSerie](./images/ParpadeoSerie.png)
+![Parpadeo Serie](./images/ParpadeoSerie.png)
 
 [Programa](http://www.arduinoblocks.com/web/project/174290)
 
@@ -153,9 +152,9 @@ Podemos utilizar los componentes disponibles con conexión sencilla
 
 #### DTH11
 
-![DHT11_programa](./images/DHT11_programa.png)
+![DHT11 programa](./images/DHT11_programa.png)
 
-![Incubadora-DHT11](./images/DHHT11Uno_bb.png)
+![Incubadora DHT11](./images/DHHT11Uno_bb.png)
 
 
 ##### Ahora enviamos "Textos" y **Valores**
@@ -187,8 +186,9 @@ Ejemplo: [lcd](http://arduino.cc/en/pmwiki.php?n=Reference/LiquidCrystal) o [ser
 
 ### Para incluir una librería en código hacemos
 
+```C++
 	#include <Libreria.h>
-
+```
 
 # Lectura de datos analógicos
 
@@ -197,7 +197,7 @@ Ejemplo: [lcd](http://arduino.cc/en/pmwiki.php?n=Reference/LiquidCrystal) o [ser
 ### Se leen valores enteros entre 0 y 1023
 ### Equivalen a los valores de 0V y 5V
 
-![mapeotiempos](./images/DHT11Rele3RegulableUno_bb.png)
+![mapeo de tiempos](./images/DHT11Rele3RegulableUno_bb.png)
 
 
 Vamos a utilizar nuestro potenciómetro para seleccionar la temperatura objetivo
@@ -206,15 +206,16 @@ En muchas ocasiones necesitamos hacer la transformación al rango que a nosotros
 
 Convertiremos (mapearemos) la medida de entre 0 y 100 a una temperatura entre 15 y 30º 
 
-![map](./images/Mapeo.png)
+![Mapeando](./images/Mapeo.png)
 
 
-![pot](./images/DHT11Regulable-bloques.png)
+![Potenciómetro](./images/DHT11Regulable-bloques.png)
 
 [Programa](http://www.arduinoblocks.com/web/project/174382)
+
 [Programa v2](http://www.arduinoblocks.com/web/project/192734)
 
-* * *
+
 # Números decimales
 
 Usaremos el tipo de variable float
@@ -226,7 +227,7 @@ Usaremos el tipo de variable float
 
 * Calibramos viendo los extremos y el valor intermedio 3.3V
 
-
+```C++
 	const int analogInPin = A0;  // Entrada analógica
 	int sensorValue = 0;        // valor leído
 
@@ -244,10 +245,10 @@ Usaremos el tipo de variable float
 	  Serial.println("v");   
 	   delay(200);                     
 	}
+```
 
 
 
-* * *
 
 
 # Pulsaciones: botones
@@ -255,7 +256,7 @@ Usaremos el tipo de variable float
 ## Montaje
 
 
-![circuitoPulsador](./images/button_sch.png)
+![circuito Pulsador](./images/button_sch.png)
 
 ![ejemplo](./images/button.png)
 
@@ -263,11 +264,13 @@ Usaremos el tipo de variable float
 
 
 ### Usamos una sentencia condicional: si se cumple esto...se hace aquello
-![boton](./images/Boton_Led.png)
+
+![Pulsador y led](./images/Boton_Led.png)
 
 
 ### Su código
 
+```C++
 	void setup()
 	{
 	  pinMode(2,INPUT_PULLUP);  // Usamos 2 como entrada
@@ -286,7 +289,7 @@ Usaremos el tipo de variable float
 	    digitalWrite(13,LOW);		// Lo apagamos
 	  }
 	}
-
+```
 
 
 
@@ -294,7 +297,7 @@ Usaremos el tipo de variable float
 
 Cuando tenemos un conjunto de instrucciones que se repiten a lo largo del código podemos hacer nuestro programa más simple creando una **Función**
 
-![fnciones](./images/funciones.png)
+![funciones](./images/funciones.png)
 
 ## Función:
 
@@ -311,7 +314,7 @@ Conjunto de instrucciones que empaquetamos en un bloque y que podemos llamar des
 Podemos llamar a una función desde cualquier parte de nuestro código.
 
 
-* * *
+
 # Escritura de valores analógicos
 
 ## Usando técnicas como PWM podemos simular valores intermedios: 0 - 255
@@ -325,6 +328,7 @@ Podemos llamar a una función desde cualquier parte de nuestro código.
 
 ### Si vemos el código
 
+```C++
 	void setup()						// configuracion
 	{
 	  pinMode(11,OUTPUT);				// Usaremos la patilla 11 como salida
@@ -340,10 +344,11 @@ Podemos llamar a una función desde cualquier parte de nuestro código.
 	   }
 
 	}
+```
 
 ## Vamos a hacer ahora una subida y luego la bajada
 
-![ledupdown](./images/AnalogicoUpDown.png)
+![led up&down](./images/AnalogicoUpDown.png)
 
 Es importante el dar un valor válido a la variable contador hasta de empezar a bajar
 
@@ -351,23 +356,23 @@ Ejercicio:Añade una línea para que veas el valor desde el PC.
 
 Piensa en qué cambia si lo pones antes o después del incremento de la variable
 
-* * *
+
 # Led RGB
 ## 3 leds (Red,Green,Blue) con una de las patillas común
 
 ## Positivo (Ánodo) Común
 
-![LedRGBPcomun](./images/LedRGBPcomun.jpg)
+![Led RGB Positivo común](./images/LedRGBPcomun.jpg)
 
 ## Negativo (Cátodo) Común
 
-![LedRGBNcomun](./images/LedRGBNComun.png)
+![Led RGB Negativo común](./images/LedRGBNComun.png)
 
 ## Tiras de leds: Necesitamos más potencia por lo que usaremos un transistor como amplificador.
 
 ### El montaje es sencillo
 
-![ledstripbjt](./images/ledstripbjt.gif)
+![Tira Led](./images/ledstripbjt.gif)
 
 
 [Introducción a la electrónica](http://www.slideshare.net/javacasm/40-introduccin-a-la-electrnica)
@@ -383,14 +388,15 @@ Vamos a hacer combinaciones de colores.
 Definiremos funciones con distintos colores y haremos una secuencia de colores. Cada función llamar
 Es muy importante que seamos claros con los nombres de las variables para así no equivocarnos
 
-* * *
+
 # Potenciómetro regulando una salida analógica
 
-![lecturaAnalogica](./images/arduino_pot_led.png)
+![lectura Analógica](./images/arduino_pot_led.png)
 
 
 ### El código:
 
+```C++
 	void setup()
 	{
 	  pinMode(5,OUTPUT);
@@ -403,24 +409,23 @@ Es muy importante que seamos claros con los nombres de las variables para así n
 	  int ValorSalida=map(valorPotenciometro,0,1023,0,255);	// Convertimos al rango de salida
 	  analogWrite(5,ValorSalida);							// Escribimos el valor en la salida
 	}
+```
 
 ### Ejercicio: usar 3 potenciómetros para controlar los colores de un led RGB
 
 El montaje sería:
 
-![3PotRGB](./images/3Pot-RGB.png)
+![Montaje 3 Potenciómetros y RGB](./images/3Pot-RGB.png)
 
 Y el programa
 
-![3PotRGB](./images/3Pot-RGB-prog.png)
+![Programa 3 Potenciómetros y RGB](./images/3Pot-RGB-prog.png)
 
 # Motores
 
 Para controlar motores vamos a usar una placa especializada en ello. En concreto usaremos una [placa estándar basada en el chip L298](http://www.dfrobot.com/wiki/index.php?title=Arduino_Motor_Shield_(L298N)_(SKU:DRI0009))
 
 Esta placa es capaz de controlar 2 motores.
-
-Comentar el tema de alimentación y la forma de controlarlo ** Alimentación **
 
 Esta placa, de tipo shield, se conecta encima de arduino y usa unos pines concretos:
 
@@ -435,10 +440,11 @@ Esta placa, de tipo shield, se conecta encima de arduino y usa unos pines concre
 
 Hacemos el siguiente programa bitbloq
 
-![ControlMotores](./images/ControlMotores.png)
+![Control Motores](./images/ControlMotores.png)
 
 ## Código
 
+```C++
 	//Arduino PWM Speed Control：
 	int E1 = 5;  
 	int M1 = 4;
@@ -463,7 +469,7 @@ Hacemos el siguiente programa bitbloq
 	    delay(30);
 	  }  
 	}
-
+```
 
 ## Control de velocidad del motor
 
@@ -471,18 +477,17 @@ Vamos a controlar la velocidad y el sentido de giro con motores
 
 (En el esquema no se ha puesto la placa L298 y se ha conectado directamente el motor a los pines de control 4 y 5)
 
-![ControMarchaParoMotor](./images/ControMarchaParoMotor.png)
+![Control Marcha/Paro Motor](./images/ControMarchaParoMotor.png)
 
 Una versión más complicada donde añadimos unos indicadores de la dirección
 
-![ControlMotorIndicadores.png](./images/ControlMotorIndicadores.png)
+![Control Motor Indicadores](./images/ControlMotorIndicadores.png)
 
-El programa sería
+El programa sería:
 
-![ProgramaControlMotor](./images/ProgramaControlMotor.png)
+![Programa Control Motor](./images/ProgramaControlMotor.png)
 
 
-* * *
 # Sensores
 
 ## Para los sensores tenemos que seguir los pasos
@@ -496,34 +501,29 @@ El programa sería
 [Sensores](http://www.slideshare.net/javacasm/46-sensores)
 
 
-
 # Medidas con sensores
 
 Podemos pensar en los sensores como un circuito externo que tenemos que alimentar conectando a 5v y GND (divisor de tensión)
 
-![divisor de tensión](http://panamahitek.com/wp-content/uploads/2014/01/fotoresistor.png)
+![Divisor de tensión](http://panamahitek.com/wp-content/uploads/2014/01/fotoresistor.png)
 
 Estudiar el comportamiento con la luz
 
-***
-
-<!-- background: #184bc6-->
-<!-- color: #fff -->
-<!-- font: centurygothic -->
 # LDR (célula fotoeléctrica)
 
 Ejemplo: activaremos un led al pasar de determinado nivel de luz
-![montaje LDR](http://s3rgiosan.com/workshop-arduino/sketches/sketch5b.png)
+
+![Montaje LDR](http://s3rgiosan.com/workshop-arduino/sketches/sketch5b.png)
 
 ## Activación de led por umbral de luz
 
-![ldrUmbral](./images/LDR-umbral.png)
+![ldr Umbral](./images/LDR-umbral.png)
 
-![ProgramaLDRUmbral](./images/ProgramaLDRUmbral.png)
+![Programa LDR Umbral](./images/ProgramaLDRUmbral.png)
 
 ## Regular el nivel con un potenciometro.  Documentarlo.
 
-![LDRUmbralPot](./images/LDRUmbralPot.png)
+![LDR Umbral Potencial](./images/LDRUmbralPot.png)
 
 ## Seguidor solar
 
@@ -533,43 +533,38 @@ Vamos a añadir ahora un segundo LDR. Esto nos permitirá simular un seguidor so
 
 El programa sería este:
 
-![ProgSegSolar](./images/ProgSeguidorSolar.png)
+![Programa Seguidor Solar](./images/ProgSeguidorSolar.png)
 
-***
 
-<!-- background: #184bc6-->
-<!-- color: #fff -->
-<!-- font: centurygothic -->
 # Termistor (sensor de temperatura)
+
 [Documentación del kit](http://www.seeedstudio.com/wiki/Sidekick_Basic_Kit_for_Arduino_V2#Thermistors)  
 
 [foros](http://www.seeedstudio.com/forum/viewtopic.php?f=16&t=2117&p=14846&hilit=thermistor#p14846)  
 
-[fabricante](http://www.seeedstudio.com/forum/download/file.php?id=1345)
+[Fabricante](http://www.seeedstudio.com/forum/download/file.php?id=1345)
 
 [Ejemplo 1](http://playground.arduino.cc/ComponentLib/Thermistor)
 
 [Ejemplo 2](http://playground.arduino.cc/ComponentLib/Thermistor2)
 
-![RTC](http://i56.tinypic.com/scx561.jpg)
 
-
-* * *
 # Sensor de temperatura LM35: viene calibrado y linealizado
 
-![lm35](./images/Arduino_lm35_board_setup.jpg)
+![Lm35](./images/Arduino_lm35_board_setup.jpg)
 
 ## Usamos la fórmula del fabricante
 
 	temperatura = valorAnalogico*5*100/1024
 
-[pinout lm35](./images/tmp36pinout.gif)
+![Pinout lm35](./images/tmp36pinout.gif)
 
-* * *
+
 ## El código quedaría así:
 
 ### Enviaremos el dato leído al pc con la función __Serial__
 
+```C++
 	int sensorPin=A0;
 
 	void setup()
@@ -584,12 +579,9 @@ El programa sería este:
 		Serial.println(temperatura);			// Enviamos el dato al PC
 		delay(1000);
 	}
+```
 
 
-* * *
-
-
-* * *
 # Servo
 
 ### Los servos son motores capaces de mantener una posición angular.
@@ -599,12 +591,12 @@ El programa sería este:
 
 ![knob](./images/knob_bb.png)
 
-* * *
 
 ![program](./images/ServoControladoPotenciometro.png)
 
 ### El código
 
+```C++
 	#include <Servo.h>  // Incluimos la librería
 
 	Servo servo;       // Declaramos que vamos a usar 1 servo
@@ -623,6 +615,9 @@ El programa sería este:
 	  delay(50);												// Le damos tiempo para que complete el giro
 
 }
+
+```
+
 ## Oscilación servo
 
 Podemos utilizar un bucle para hacer que el servo oscile entre las posiciones extremas
@@ -630,8 +625,6 @@ Podemos utilizar un bucle para hacer que el servo oscile entre las posiciones ex
 ![servo](./images/OscilacionServo.png)
 
 #### [Más sobre servos](http://www.slideshare.net/javacasm/arduino-prctico-servos)
-
-* * *
 
 # LCD
 
@@ -650,10 +643,11 @@ Podemos utilizar un bucle para hacer que el servo oscile entre las posiciones ex
 
 ### Montaje
 
-![lcd_i2c](./images/lcd_i2c3.jpg)
+![lcd i2c](./images/lcd_i2c3.jpg)
 
 ### Código
 
+```C++
 	#include <Wire.h>
 	#include <LiquidCrystal.h>
 
@@ -673,14 +667,16 @@ Podemos utilizar un bucle para hacer que el servo oscile entre las posiciones ex
 	  lcd.print("Hola Mundo");	// Mostramos un texto
 
 	}
+```
 
-* * *
 # Proyecto: termostato configurable y que activa un relé
 
 [Proyecto 1](https://arduinolab.wordpress.com/)
+
 ![proyecto](./images/arduino-humidity-and-temperature-monitor_bb.jpg)
 
 [Proyecto 2](http://www.electroschematics.com/8998/arduino-temperature-controlled-relay/)
+
 ![proyecto2](./images/arduino-lcd-lm35-550x309.jpg)
 
 ## Veamos los componentes:
@@ -692,23 +688,23 @@ Podemos utilizar un bucle para hacer que el servo oscile entre las posiciones ex
 
 ## Programa
 
-Comparamos el valor leido del potenciómetro con el leído del potenciómetro.
-Si este es máyor activamos el relé
-Mostramos en el lcd la temperatura actual
+Comparamos el valor leído del sensor con el leído del potenciómetro.
+Si este es máyor activamos el relé.
+Mostramos en el lcd la temperatura actual.
 
 
 ## Publicación de datos
+
 Existen placas con conectividad Wifi como el NodeMCU, ESP8266, ESP12, ESP32
 
 ![](https://electronilab.co/wp-content/uploads/2016/02/NodeMCU-%E2%80%93-Board-de-desarrollo-con-m%C3%B3dulo-ESP8266-WiFi-y-Lua-1.jpg)
 
 Podemos enviar los datos a servidores de internet
 
-![EnvioDatos](./images/EnvioDatos.png)
+![Envio Datos](./images/EnvioDatos.png)
 
 Podemos usar MQTT, ThingSpeak, Blynk
 
-* * *
 ### ¿Dónde comprar?
 
 Ante todo hay que mirar lo que se compra y la documentación e información que se incluye.
@@ -722,9 +718,6 @@ Ante todo hay que mirar lo que se compra y la documentación e información que 
 [Bricogeek](http://tienda.bricogeek.com/)
 
 [Bq](http://www.bq.com/es/productos/kit-robotica.html)
-
-***
-
 
 # Internacionales
 
@@ -744,8 +737,6 @@ Ante todo hay que mirar lo que se compra y la documentación e información que 
 
 [DX](http://www.dx.com/s/arduino)
 
-* * *
-
 # Agradecimientos:
 
 [Arduino](http://arduino.cc)
@@ -757,10 +748,12 @@ Ante todo hay que mirar lo que se compra y la documentación e información que 
 [wikipedia](http://es.wikipedia.org)
 
 [José Pujol](https://tecnopujol.wordpress.com)
+
 ### Generando datos
 ### Publicando datos
 
 
 ## Recursos
 
-[Arduino desde cero con ArduinoBlocks](https://didactronica.com/itinerario/)    w
+[Arduino desde cero con ArduinoBlocks](https://didactronica.com/itinerario/)
+

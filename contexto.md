@@ -11,7 +11,7 @@
 
 * ¿Enseñar a programar?
 
-* ¿qué aporta?
+* ¿Qué aporta?
 
 ### Mejor si lo usamos como algo transversal
 
