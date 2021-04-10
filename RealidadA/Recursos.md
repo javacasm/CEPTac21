@@ -4,20 +4,24 @@ Mundo virtual http://unblogfantasticoenguevejar.blogspot.com/2018/11/nuestro-uni
 Experiencias ESO con realidad virtual 
 http://web.catedu.es/webcatedu/index.php/buenas-practicas/253-experiencias-en-4-eso-con-la-realidad-aumentada
 
-[Aumentame](https://eldiariodelaeducacion.com/espiral/2020/02/19/las-tecnologias-inmersivas-aplicadas-a-la-educacion-y-formacion/)
+[Auméntame](https://eldiariodelaeducacion.com/espiral/2020/02/19/las-tecnologias-inmersivas-aplicadas-a-la-educacion-y-formacion/)
 
-![](https://eldiariodelaeducacion.com/espiral/wp-content/uploads/sites/19/2019/12/AR.jpg)
+
 
 [Magic Lead](https://twitter.com/lesbird65)
 
 
-
 ## Material Catedu
-https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/ra-introduccion-a-la-realidad-virtual.html
 
-https://moodle.catedu.es/mod/page/view.php?id=976&forceview=1
+[Curso de realidad virtual](https://moodle.catedu.es/course/view.php?id=7)
 
-http://webantigua.ftp.catedu.es/index.php/descargas/realidad-aumentada.html
+[Tutorial](https://github.com/catedu/introduccion-a-la-realidad-aumentada)
+
+[Material para primaria](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/apps-de-realidad-aumentada-ed-infantil.md)
+
+[Material para primaria](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/apps-de-realidad-aumentada-ed-primaria.md)
+
+[Material para bachillerato](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/apps-de-realidad-aumentada-ed-secundaria-bachillerato.md)
 
 ## Material Curso STEAM
 

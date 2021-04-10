@@ -13,11 +13,8 @@ Ha sido diseñado por unos profes: Jorge Lobo, José Pujol y Xavier Rosas
 
 ## Entornos de programación
 
-Se puede programar con cualquier entorno donde se programe Arduino (IDE, Ardublocks, biblock, mBlock, etc.)
+Se puede programar con cualquier entorno donde se programe Arduino (IDE, [arduinoblocks](https://arduinoblocks.com), [Bitbloq](https://bitbloq.bq.com), [mBlock](https://ide.mblock.cc/), etc.)
 
-[MakeBlock](https://ide.mblock.cc/)
-
-[Bitbloq](https://bitbloq.bq.com)
 
 ## Programación
 
@@ -36,11 +33,11 @@ Soporta Bluetooth Controller, Codey Rocky, HaloCode, mBot, MotionBlock, Neuron, 
 
 En windows
  
-![mLink icon](https://www.mblock.cc/doc/en/basics/images/mlink-4.png)
+![mLink icon](./images/yb10.png)
 
 En osX
 
-![mlink osX](https://www.mblock.cc/doc/en/basics/images/mlink-8.png)
+![mlink osX](./images/en-7.png)y    
 
 En linux
 
@@ -129,7 +126,7 @@ Veamos como hacer sonido con el zumbador: activamos y desactivamos rápidamente
 
 Un poquito de física sobre frecuencias y periodos....
 
-![Frecuencias y periosdos](./images/frecuenciaYperiodo.png)
+![Frecuencias y periodos](./images/frecuenciaYperiodo.png)
 
 ![Sonido 440Hz Original](./images/Sonido440HzOrig.png)
 

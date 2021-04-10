@@ -11,4 +11,4 @@
 
 #### Recursos
 
-https://www.creativosonline.org/blog/los-mejores-lugares-encontrar-plantillas-impresion-3d.html
+[Dónde encontrar modelos](https://www.creativosonline.org/blog/los-mejores-lugares-encontrar-plantillas-impresion-3d.html)

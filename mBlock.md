@@ -193,7 +193,7 @@ Veamos como hacer sonido con el zumbador: activamos y desactivamos rápidamente
 
 Un poquito de física sobre frecuencias y periodos....
 
-![Frecuencias y periosdos](./images/frecuenciaYperiodo.png)
+![Frecuencias y periodos](./images/frecuenciaYperiodo.png)
 
 ![Sonido 440Hz Original](./images/Sonido440HzOrig.png)
 

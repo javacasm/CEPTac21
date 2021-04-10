@@ -1,4 +1,4 @@
-# Realidad Virtual y Aumentada
+# Modulo 5 - Realidad Virtual y Aumentada
 
 ¿Qué son los QR y cómo crealos?
 
@@ -8,7 +8,7 @@
 
 ## Realidad Aumentada
 
-Puedes encontrar un ejemplo de realidad aumenta en el catálogo de IKEA
+Puedes encontrar un ejemplo de realidad aumentada en el catálogo de IKEA
 
 ![](https://www.actualidadiphone.com/wp-content/uploads/2017/09/vdnztasuyew-e1505917112610.jpg)
 
@@ -105,19 +105,16 @@ Herramienta sencilla de Google para la creación de Tours virtuales
 Apps para leerlos: Aplicaciones como "i-nigma" o “QR Code Reader”
 
 Podemos crear:
+
 * URLs
 * Textos
 * Datos de contacto
 * Acceso Wifi
 * ...
 
-## Realidad virtual
-
-![](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/img/realidad-virtual.png)
-
 ## Gafas inmersivas
 
-![Gafas inmersivas](https://www.tventas.com/3195756-large_default/gafas-realidad-virtual-3d-vr-box.jpg)
+![Gafas inmersivas](./images/61-wB+54kRL._AC_SY355_.jpg)
 
 ### [Cardboards](https://arvr.google.com/intl/es_es/cardboard/)
 

@@ -45,13 +45,14 @@ Para comprobarlo hacemos lo siguiente:
 Vamos a ver las opciones del menú más normales de las impresoras del tipo Prusa i3 (basadas en el firmware más usual Marlin)
 
 Tenemos los siguientes menús:
+
 * Preparar: donde están las opciones para usar antes de imprimir
     * Precalentar
     * Movimientos
     * Ir al origen o AutoHome
     * Apagar motores
 * Control: configuración de la impresora
-* Menu SD, para seleccionar lo que queremos imprimir
+* Menú SD: para seleccionar lo que queremos imprimir
 
 [![Vídeo: Menú de las impresoras Prusa i3 (marlin)](https://img.youtube.com/vi/0hkw0U7VBW0/0.jpg)](https://youtu.be/0hkw0U7VBW0)
 
@@ -60,7 +61,7 @@ Tenemos los siguientes menús:
 
 ## Configuración de Ultimaker Cura para Prusa i3
 
-1. En el ménu Ajustes -> Impresoras seleccionamos Agregar Impresora
+1. En el menú Ajustes -> Impresoras seleccionamos Agregar Impresora
 1. Seleccionamos "Agregar impresora fuera de red"
 1. Seleccionamos Custom 
 1. Seleccionamos Custom FFF
@@ -83,12 +84,14 @@ Ya tenemos todo listo para imprimir, sólo tenemos que:
 * Cargamos/importamos el modelo (fichero STL) que queremos imprimir
 * Ajustamos tamaño/orientación
 * Configuramos la impresión con nuestro laminador según necesitemos:
+
         * Modelo de impresora correcto
         * Tipo de filamento 
         * Soporte 
         * Adherencia a la base
         * % de relleno
         * Altura de capa.
+
 * Laminamos
 * Exportamos el fichero gcode a la tarjeta SD
 * Ponemos la tarjeta SD en la impresora
@@ -114,11 +117,11 @@ Si todo va bien, la pieza se irá formando
 ## Cambio de filamento
 
 1. Calentamos el extrusor hasta la temperatura correcta del filamento actual
-1. Soltamos los tornillos del extrusor que hacen presión en el filmaneto (idler)
-1. Empujamos un poco el filamento para que estruya un poco de plástico (y evitar que queden fragmentos) y lo sacamos con decisión.
-1. Calentamos el exturor hasta la temperatura del nuevo filamento
+1. Soltamos los tornillos del extrusor que hacen presión en el filamento (idler)
+1. Empujamos un poco el filamento para que extruya un poco de plástico (y evitar que queden fragmentos) y lo sacamos con decisión.
+1. Calentamos el extrusor hasta la temperatura del nuevo filamento
 1. Cortamos el filamento en bisel para que entre más fácilmente
-1. Introducirmos el filamento manualmente hasta que vuelva a salir plástico.
+1. Introducimos el filamento manualmente hasta que vuelva a salir plástico.
 1. Volvemos a poner los tornillos y ajustamos la presión.
 1. Movemos la rueda del extrusor para ver que el filamento fluye.
 
@@ -152,11 +155,11 @@ Si hacemos un transporte en el que lleva bastante tiempo en coche hola estamos m
 
 ## Símbolo raros en la pantalla 
 
-Enn las versiones más antiguas ocurría que la pantalla de la impresora pierde los caracteres y se llena de símbolos extraños. Lo que tenemos que hacer es pulsamos el botoncito y se repinta.
+En las versiones más antiguas ocurría que la pantalla de la impresora pierde los caracteres y se llena de símbolos extraños. Lo que tenemos que hacer es pulsar el botoncito y se repinta.
 
 ### Adherencia a la placa
 
-Podemos añadir laca al cristal de la impresora para mejorar la adherencia, no es necesario encharcarlo, basta con una cafa fina.
+Podemos añadir laca al cristal de la impresora para mejorar la adherencia, no es necesario encharcarlo, basta con una capa fina.
 
 A medida que la vayamos usando esa capa habrá que limpiarla pues puede llegar a ensuciar la base de las piezas, sobre todo si son oscuras.
 

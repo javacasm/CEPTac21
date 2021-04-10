@@ -1,15 +1,35 @@
 ## [Filamentos](http://comohacer.eu/comparativa-impresoras-3d/#Que_materiales_usan)
 
+[![Vídeo: 4.0 Tipos y características de filamentos para impresión 3D](https://img.youtube.com/vi/74VFdfpiIuI/0.jpg)](https://youtu.be/74VFdfpiIuI)
+
+[Vídeo: 4.0 Tipos y características de filamentos para impresión 3D](https://youtu.be/74VFdfpiIuI)
+
+
 Cada vez existen más materiales susceptibles de poder usarse en las impresoras.
 
-* PLA
-* ABS
-* PETG
-* HIPS
-* Nylon
-* Nijaflex
+* PLA: más ecológico y el más utilizado hoy en día
+* ABS: es de lo que están hechas las piezas de plástico que nos rodea, con la impresora es complicado de usar para piezas grandes y produce malos olores.
+* PETG: ecológico
+* HIPS: se disuelve fácilmente
+* Nylon: muy duro y semi flexible
+* Ninjaflex y Filaflex: muy flexibles
+* ...
 
-### Par'ametros
+## Flexibles
+
+![filamentoFlexible](./images/filamentoFlexible.jpg)
+
+## Composites:
+
+* Madera
+
+![madera](./images/filamentoMadera.jpg)
+
+* Bronce
+![bronce](./images/filamentoBronce.png)
+
+
+### Parámetros
 
 * Temperatura extrusor
 * Temperatura cama caliente
@@ -25,17 +45,6 @@ Cada material se trabaja a una temperatura diferente, de hecho cada filamento ne
 * PLA: 190º
 * Nylon: 260º
 * Filaflex: 220º
-
-### Tracción
-
-[Plásticos](http://spainlabs.com/wiki/index.php?title=Impresoras_3D)
-
-Composites:
-
-* Madera
-![madera](http://rascomras.com/store/104-thickbox_leometr/laywoo-d3-madera-filamento-3mm-250gr.jpg)
-* Bronce
-![bronce](http://www.3ders.org/images2014/copperFill_3d-printing-filament-1.jpg)
 
 ## Ejemplos 
 
@@ -104,3 +113,12 @@ El filamento HIPS es un termoplástico con cualidades similares al ABS pero con 
 ### Recursos
 
 [Tipos de materiales](https://bitfab.io/es/materiales-de-impresion-3d-fdm/)
+
+
+## Cuidados del filamento
+
+La húmedad es una de las causas más frecuentes de deterioro de los filamentos. Pôr eso, cuando no los vayamos a usar debemos guardar los filamentos en bolsas para evitar que cojan humedad, lo que los haría más frágiles y más difíciles de imprimir.
+
+Muchas fabricante incluyen una bolsa con cierre tipo Zip para guardar los filamentos con más garantías.
+
+Esto no quiere decir que cada noche tengamos que guardar el filamento que no estemos usando, pero sí cuando no lo vayamos a usar durante unos días.

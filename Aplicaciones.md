@@ -1,8 +1,6 @@
-# Aplicaciones de la impresión 3D
+# Módulo 4 - Impresión 3D
 
-
-
-## Aplicaciones escolares
+## Aplicaciones escolares de la impresión 3D
 
 [Aparatos para el cole](https://www.thingiverse.com/javacasm/collections/cole)
 
@@ -69,7 +67,7 @@
 
 * Maquetas de máquinas ([modelo](http://www.thingiverse.com/thing:644933))
 
-![toyota](http://thingiverse-production-new.s3.amazonaws.com/renders/09/c5/6c/6e/da/IMG_0848_preview_featured.JPG)
+![Motor 4 cilindros Toyota](https://cdn.thingiverse.com/assets/ec/1b/13/2b/66/featured_preview_IMG_2531.jpg)
 
 * Modelo de cambio de marchas
 
@@ -93,7 +91,7 @@
 
 ### Ejemplo: una turbina
 
-Vemos en las noticas que [parte de la turbina de avión es una pieza impresa en titanio](http://www.gereports.com/post/119370423770/jet-engines-with-3d-printed-parts-power-next-gen)
+Vemos en las noticias que [parte de la turbina de avión es una pieza impresa en titanio](http://www.gereports.com/post/119370423770/jet-engines-with-3d-printed-parts-power-next-gen)
 
 Buscamos [imágenes de modelos de turbinas](https://www.google.es/search?q=thingiverse++turbine&safe=off&espv=2&biw=1920&bih=895&source=lnms&tbm=isch&sa=X&ei=qXVcVbPsKIXwUKX6gKAH&ved=0CAYQ_AUoAQ). Más aún podemos buscar esos modelos [modelos de turbinas](https://www.thingiverse.com/tag:turbine/page:1)
 

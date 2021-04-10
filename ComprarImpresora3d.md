@@ -17,7 +17,7 @@
 
 ## Anycubics i3 Mega
 
-![anycubis](https://images-na.ssl-images-amazon.com/images/I/611X3q3rWIL._SX425_.jpg)
+![Anycubics](https://images-na.ssl-images-amazon.com/images/I/611X3q3rWIL._SX425_.jpg)
 
 [Comparativa de impresoras 3D](http://comohacer.eu/comparativa-impresoras-3d/#Comparativa_de_impresoras_3D)
 
@@ -28,8 +28,6 @@
 # Recomendados
 
 [Createc3D](https://createc3d.com/shop/es/19-kit-impresoras-3d) Recomendado para quien requiera soporte presencial
-
-[Bq](https://store.bq.com/es/mundo-3d/impresion-3-d/) Variedad de formatos
 
 ## Cual elegir
 
