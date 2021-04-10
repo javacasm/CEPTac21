@@ -17,15 +17,15 @@
 
 [Macro Piano](https://makeymakey.com/blogs/how-to-instructions/oversized-and-portable-floor-piano)
 
-![imag](https://cdn.shopify.com/s/files/1/0162/8612/files/2046_stepthree2_large.png?v=1558554579)
+![](./images/2046_stepthree2_large.png?v=1558554579)
 
 [Piano pintado](https://www.instructables.com/id/Graphite-Piano-Keyboard-with-MaKey-MaKey-and-Scrat/)
 
-![imag](https://cdn.instructables.com/F70/3UKZ/I6NI55CA/F703UKZI6NI55CA.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds)
+![](https://cdn.instructables.com/F70/3UKZ/I6NI55CA/F703UKZI6NI55CA.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds)
 
 [Salta-salta](https://makeymakey.com/blogs/how-to-instructions/makey-makey-run-and-jump-game-pad)
 
-![img](https://cdn.shopify.com/s/files/1/0162/8612/files/283_StepSix_large.png?v=1558473420)
+![](https://cdn.shopify.com/s/files/1/0162/8612/files/283_StepSix_large.png?v=1558473420)
 
 [Guitarra musical](https://makeymakey.com/blogs/how-to-instructions/creating-a-guitar-in-scratch-or-soundplant)
 
