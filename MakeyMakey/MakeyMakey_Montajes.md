@@ -29,7 +29,7 @@
 
 [Guitarra musical](https://makeymakey.com/blogs/how-to-instructions/creating-a-guitar-in-scratch-or-soundplant)
 
-![imag](https://cdn.shopify.com/s/files/1/0162/8612/files/1484-StepFive_large.png?v=1558551537)
+![](https://cdn.shopify.com/s/files/1/0162/8612/files/1484-StepFive_large.png?v=1558551537)
 
 [Montaje complejo](https://twitter.com/mandeepR41/status/1191764116131598336)
 

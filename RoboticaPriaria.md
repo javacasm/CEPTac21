@@ -97,7 +97,7 @@ Es una placa desarrollada por la Fundación BBC y pensada para que todos los esc
     * Arduino
 * Iniciación a la electrónica y Arduino
 
-![riego](./images/Riego.png)
+![Sistema de riego con Echidna](./images/Riego.png)
 
 ![](./images/SensorHumedadArduino.png)
 

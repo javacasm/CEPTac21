@@ -1,6 +1,6 @@
 # BBC micro:bit
 
-![micro:bit]./images/microbit.png)
+![Hardware de micro:bit](./images/microbit.png)
 
 [Fundación microbit](http://microbit.org/es/)
 
