@@ -86,7 +86,7 @@ Usaremos los 3 leds de colores para indicar el nivel de luz:
 * Amarillo: nivel de luz medio
 * Verde: luz suficiente
 
-![NivelLuminoso](./images/NivelLuminoso.png)
+![Nivel Luminoso](./images/NivelLuminoso.png)
 
 [Proyecto](https://planet.mblock.cc/project/102785)
 

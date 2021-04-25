@@ -156,7 +156,7 @@ Usaremos los 3 leds de colores para indicar el nivel de luz:
 
 ![](./images/LDR_3xLedsUno_bb.png)
 
-![NivelLuminoso](./images/NivelLuminoso.png)
+![Nivel Luminoso](./images/NivelLuminoso.png)
 
 [Proyecto](https://planet.mblock.cc/project/102785)
 

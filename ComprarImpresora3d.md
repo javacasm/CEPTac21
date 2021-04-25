@@ -38,7 +38,6 @@
 
 ## ¿Nos atrevemos con un kit?
 
-Bq
 
 Createc3D
 

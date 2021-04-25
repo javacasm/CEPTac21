@@ -17,7 +17,7 @@ Cada vez existen más materiales susceptibles de poder usarse en las impresoras.
 
 ## Flexibles
 
-![filamentoFlexible](./images/filamentoFlexible.jpg)
+![Filamento Flexible](./images/filamentoFlexible.jpg)
 
 ## Composites:
 
@@ -98,7 +98,7 @@ El filamento HIPS es un termoplástico con cualidades similares al ABS pero con 
 
 #### [PLA Flexible X-920](https://sakata3d.com/es/flexibles/182-x-920.html)
 
- flexible, biodegradable y compostable. Su gran capacidad de absorción a los impactos lo hace ideal para todo aquel proyecto que necesite ser resistente. Fácil de imprimir y con un alta tolerancia a la temperatura. Su textura se parece a la goma de caucho natural
+ flexible, biodegradable y compostable. Su gran capacidad de absorción a los impactos lo hace ideal para todo aquel proyecto que necesite ser resistente. Fácil de imprimir y con una alta tolerancia a la temperatura. Su textura se parece a la goma de caucho natural
 
 * Temperatura de impresión: 220-235 ºC
 * Temperatura cama: 50 ºC
@@ -117,8 +117,9 @@ El filamento HIPS es un termoplástico con cualidades similares al ABS pero con 
 
 ## Cuidados del filamento
 
-La húmedad es una de las causas más frecuentes de deterioro de los filamentos. Pôr eso, cuando no los vayamos a usar debemos guardar los filamentos en bolsas para evitar que cojan humedad, lo que los haría más frágiles y más difíciles de imprimir.
+La húmedad es una de las causas más frecuentes de deterioro de los filamentos. Por eso, cuando no los vayamos a usar debemos guardar los filamentos en bolsas para evitar que cojan humedad, lo que los haría más frágiles y más difíciles de imprimir.
 
-Muchas fabricante incluyen una bolsa con cierre tipo Zip para guardar los filamentos con más garantías.
+Muchos fabricantes incluyen una bolsa con cierre tipo Zip para guardar los filamentos con más garantías.
 
 Esto no quiere decir que cada noche tengamos que guardar el filamento que no estemos usando, pero sí cuando no lo vayamos a usar durante unos días.
+

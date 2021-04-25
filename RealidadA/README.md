@@ -1,6 +1,6 @@
 # Modulo 5 - Realidad Virtual y Aumentada
 
-¿Qué son los QR y cómo crealos?
+¿Qué son los QR y cómo crearlos?
 
 ![](https://www.unitag.io/qreator/generate?crs=xnjFkEn%252FP85fCPDXJ%252FXXKnPnKU%252FtWVh9E7ei8Ex%252BR4XsTvus59MiRl4OtJ5Y%252F3aRXopA7Qn4wJ6m3qLfsP4IWv39ocSd3mMczmj1AuyiW6K%252F58n8n8s5NK61vAUi6GUR9QhYs1xUoNWG3PC4owAgU1Q%252FHThW3FIfdeEUqZ%252BlJgc%253D&crd=fhOysE0g3Bah%252BuqXA7NPQx2rrS2o9rjHfmG68tV%252F4kylibNjKGl2GGC8IAoEo6rKgwkb1fpkaZPApHKzcfkZGyMsecxbeLHcNyZc3SXr4FDHwPNUVPaqglGbjk8LdT9CRKZZeWnDDep2xIT%252BCyNTg%252FRc%252B2xrIWgE4HeocGM2N31agpZmso2N%252Fds68%252FpaSn5z)
 
@@ -161,7 +161,7 @@ Podemos crear:
 
 [Las tecnologías inmersivas aplicadas a la educación y la formación](https://eldiariodelaeducacion.com/espiral/2020/02/20/las-tecnologias-inmersivas-aplicadas-a-la-educacion-y-la-formacion/)
 
-![](https://eldiariodelaeducacion.com/espiral/wp-content/uploads/sites/27/2019/12/AR.jpg)
+![](./images/AR.jpg)
 
 ## Herramientas para diseño de casas
 

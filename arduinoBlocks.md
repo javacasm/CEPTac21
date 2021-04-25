@@ -505,19 +505,17 @@ El programa sería:
 
 Podemos pensar en los sensores como un circuito externo que tenemos que alimentar conectando a 5v y GND (divisor de tensión)
 
-![Divisor de tensión](http://panamahitek.com/wp-content/uploads/2014/01/fotoresistor.png)
+![Divisor de tensión](./images/fotoresistor.png)
 
 Estudiar el comportamiento con la luz
 
 # LDR (célula fotoeléctrica)
 
-Ejemplo: activaremos un led al pasar de determinado nivel de luz
-
-![Montaje LDR](http://s3rgiosan.com/workshop-arduino/sketches/sketch5b.png)
-
 ## Activación de led por umbral de luz
 
-![ldr Umbral](./images/LDR-umbral.png)
+Ejemplo: activaremos un led al pasar de determinado nivel de luz
+
+![Montaje ldr Umbral](./images/LDR-umbral.png)
 
 ![Programa LDR Umbral](./images/ProgramaLDRUmbral.png)
 
@@ -701,7 +699,7 @@ Existen placas con conectividad Wifi como el NodeMCU, ESP8266, ESP12, ESP32
 
 Podemos enviar los datos a servidores de internet
 
-![Envio Datos](./images/EnvioDatos.png)
+![Envío Datos](./images/EnvioDatos.png)
 
 Podemos usar MQTT, ThingSpeak, Blynk
 
