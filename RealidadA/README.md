@@ -16,7 +16,15 @@ Puedes encontrar un ejemplo de realidad aumentada en el catálogo de IKEA
 
 También en las aplicaciones instagram o snapchat: sus filtros son 
 
-[Historia](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/conceptos-basicos-historia.md)
+[Historia de la realidad aumentada](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/conceptos-basicos-historia.md)
+
+Un ejemplo típico es [esta camiseta](https://www.brainshakers.es/tienda/realidad-aumentada/camiseta-cuerpo-humano/). Si te la pones y usas la la app de Body Planet en el móvil o tablet, veras una representación de tu interior.
+
+![](../images/AR.jpg)
+
+(Gracias Mª Carmen y Jaime)
+
+También existen muchos libros que nos permiten ver contenidos en realidad aumentada. En [este artículo de Educación 3.0](https://www.educaciontrespuntocero.com/libros/libros-con-realidad-aumentada/) podemos ver algunos.
 
 ### Cursos
 
@@ -27,6 +35,29 @@ También en las aplicaciones instagram o snapchat: sus filtros son
 [Documentacion](https://github.com/catedu/introduccion-a-la-realidad-aumentada)
 
 ### Aplicaciones
+
+
+#### [Quiver](https://quivervision.com/)
+
+Es una [aplicación](https://play.google.com/store/apps/details?id=com.puteko.colarmix) que nos muestra los dibujos que se realizan sobre [plantillas](https://quivervision.com/coloring-packs/Education-Starter-Pack) en visualizaciones en 3D, algunas de las cuales [podemos obtener gratuitamente](https://quivervision.com/coloring-packs).
+
+![](../images/animal-cell.jpg)
+
+
+#### [MergeCube](https://mergeedu.com/cube)
+
+Se trata de una aplicación ([Merge viewer o Merge Explorer)(https://mergeedu.com/cube)]que cuando apuntamos a un "mergecube"
+
+![](../images/merge-cube.jpg)
+
+
+Nos muestra contenidos de realidad aumentada
+
+![](../images/merge_image3.gif)
+
+Podemos comprar el mergecube o [construirlo con papel/cartulina](https://support.mergeedu.com/hc/en-us/articles/360052933492-Making-a-Merge-Paper-Cube)
+
+En estas relaciones puedes encontrar otras aplicaciones
 
 [Aplicaciones para infantil](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/apps-de-realidad-aumentada-ed-infantil.md)
 
@@ -40,9 +71,9 @@ Aumentaty es una plataforma/comunidad de creación y visualización de contenido
 
 En la [comunidad](http://www.aumentaty.com/community/es/) podemos publicar y compartir creaciones
 
-![](https://i1.wp.com/aumenta.me/wp-content/uploads/2017/10/imageaumentame.jpg)
+![](../images/Aumentaty.jpeg)
 
-Creación con [Creator](http://www.aumentaty.com/community/es/) y [Scope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=es)
+Creación de contenidos con [Creator](http://www.aumentaty.com/community/es/) y el visor [Scope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=es)
 
 [Ejemplo en Creator](https://moodle.catedu.es/mod/book/view.php?id=9981&chapterid=453) [Videotutorial](https://moodle.catedu.es/mod/book/view.php?id=1000&chapterid=26)
 
@@ -69,30 +100,43 @@ Creación de POI (Point of interest)
 
 #### Visitas virtuales con Round Me
 
-[Visitas virtuales con Round Me](https://educacionadistancia.juntadeandalucia.es/profesorado/autoformacion/mod/book/view.php?id=6807)
+[Visitas virtuales con Round Me al GeoParque de Gorafe](https://roundme.com/tour/242869/view/701950)
 
-### Tour creator
+### ~~Tour creator~~
 
-Herramienta sencilla de Google para la creación de Tours virtuales
+ERA ~~Una herramienta sencilla de Google para la creación de Tours virtuales~~
 
-#### Ejemplos
-[La huerta de Lorca (CEIP Fed. García Lorca)](https://poly.google.com/u/0/view/9Mz2g3b3M5N)
+Lo dejo si borrar para que sirva de recordatorio de que cuando confiamos en herramientas de terceros puede ocurrir que todo nuestro trabajo desaparezca. Por eso prefiero usar herramientas **Open Source** en las que el usuario controla el futuro de la herramienta.
 
-[Nuestro universo: Tour creator](https://unblogfantasticoenguevejar.blogspot.com/2018/11/nuestro-universo-en-virtual.html)
 
-#### Creación de contenidos
-[Herramienta de creación de Tours](https://poly.google.com/creator/tours?dmr=0&pli=1/creator/tours/)
+#### ~~Ejemplos~~ (ya perdidos)
 
-[Tutorial de Tour creator](https://arvr.google.com/tourcreator/)
+[~~La huerta de Lorca (CEIP Fed. García Lorca)~~](https://poly.google.com/u/0/view/9Mz2g3b3M5N)
 
-#### Visor
+[~~Nuestro universo: Tour creator~~](https://unblogfantasticoenguevejar.blogspot.com/2018/11/nuestro-universo-en-virtual.html)
 
-[Visor: Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=none)
+#### ~~Creación de contenidos~~
+[~~Herramienta de creación de Tours~~](https://poly.google.com/creator/tours?dmr=0&pli=1/creator/tours/)
 
-#### Ejemplos
+[~~Tutorial de Tour creato~~r](https://arvr.google.com/tourcreator/)
 
-[Vídeo de Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=modal-video-n29VQwW-03o)
+#### Google Expeditions
 
+[Google Expeditions](https://artsandculture.google.com/project/expeditions) es una colección de "viajes" temáticos, en el espacio y a veces en el tiempo, pero siempre en el conomiento.
+
+Están clasificados por temáticas y podemos encontrar recorridos por multitud de museos, por el trabajo de artistas y por la creación de muchas de sus obras. También podemos ver los temas por épocas o por lugares.
+
+Son una excelente fuente de información para los alumnos, que siempre se quejan de que sólo encuentran cosas en la Wikipedia.
+
+#### Algunos ejemplos
+
+[Allan Turing](https://artsandculture.google.com/story/bgXRj4OxDylaSw) y sus trabajos sobre criptografía para descifrar las máquinas enigma.
+
+[Cómo funciona un ordenador](https://artsandculture.google.com/story/DgWBfSPf_sFSow)
+
+[Historia de la computación](https://artsandculture.google.com/story/KAVhfuJJZGQ-rw)
+
+(Gracias Abel por los enlaces)
 
 [Listado de 100 expediciones Realidad Virtual](https://docs.google.com/spreadsheets/d/1uwWvAzAiQDueKXkxvqF6rS84oae2AU7eD8bhxzJ9SdY/edit#gid=765151678)
 
@@ -114,7 +158,7 @@ Podemos crear:
 
 ## Gafas inmersivas
 
-![Gafas inmersivas](./images/61-wB+54kRL._AC_SY355_.jpg)
+![Gafas inmersivas](../images/61-wB+54kRL._AC_SY355_.jpg)
 
 ### [Cardboards](https://arvr.google.com/intl/es_es/cardboard/)
 
@@ -142,7 +186,6 @@ Podemos crear:
 
 [Apps](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/ra-apps-de-realidad-virtual.html)
 
-[Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=none)
 
 ## Programación de Realidad Virtual
 
@@ -161,7 +204,7 @@ Podemos crear:
 
 [Las tecnologías inmersivas aplicadas a la educación y la formación](https://eldiariodelaeducacion.com/espiral/2020/02/20/las-tecnologias-inmersivas-aplicadas-a-la-educacion-y-la-formacion/)
 
-![](./images/AR.jpg)
+
 
 ## Herramientas para diseño de casas
 
