@@ -1,5 +1,29 @@
 ebook = "Introducción a la programación, robótica y 3D en el aula.docx"
 
+scratch = "Usando Scratch 3.0 en educación.docx"
+
+scratch:
+	pandoc --pdf-engine=xelatex   \
+					-V papersize:a4paper    \
+					--template=./LaTeX_ES.latex    \
+					-o  $(scratch)  \
+					Cabecera.md        \
+					Cabecera_latex.md \
+					1.0.ProgramacionEnEducacion.md \
+					IniciacionProgramacion.md \
+					Bloques.md \
+					3.0.Scratch3.0.md \
+					3.1.PrimerosEjemplos.md \
+					3.2.ScratchEntabletas.md \
+					4.0.Recursos.md \
+					5.0.Movimientos.md \
+					6.0.Conversaciones.md \
+					MakeyMakey_tutorial.md \
+					8.3.MMComoTecladoRaton.md \
+					8.4.MMMusica.md \
+					8.5.MMFrutas.md \
+					8.6.MMQuizz.md \
+					opensource.md
 
 
 ebook:
