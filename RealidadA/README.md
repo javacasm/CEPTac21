@@ -86,7 +86,7 @@ Visor: [Scope](https://play.google.com/store/apps/details?id=com.aumentaty.scope
 
 #### [Layar](https://www.layar.com/)
 
-![](https://i.pinimg.com/originals/1b/66/20/1b6620c70780b07b0dfed66e679c0c50.png)
+![](../images/layar.png)
 
 [Video](https://youtu.be/ZR4eSmmPCxg)
 
