@@ -32,30 +32,33 @@ También existen muchos libros que nos permiten ver contenidos en realidad aumen
 
 [Seminario sobre realidad aumentada](https://aalonsogr.webnode.es/seminario-de-coordinadores-ryc-primaria-/realidad-aumentada/)
 
-[Documentacion](https://github.com/catedu/introduccion-a-la-realidad-aumentada)
+[Documentacion](https://github.com/catedu/introduccion-a-la-realidad-aumentada/blob/master/SUMMARY.md)
 
 ### Aplicaciones
 
 
 #### [Quiver](https://quivervision.com/)
 
-Es una [aplicación](https://play.google.com/store/apps/details?id=com.puteko.colarmix) que nos muestra los dibujos que se realizan sobre [plantillas](https://quivervision.com/coloring-packs/Education-Starter-Pack) en visualizaciones en 3D, algunas de las cuales [podemos obtener gratuitamente](https://quivervision.com/coloring-packs).
+Es una [aplicación](https://play.google.com/store/apps/details?id=com.puteko.colarmix) que nos muestra los dibujos que se realizan sobre [plantillas](https://quivervision.com/coloring-packs/Education-Starter-Pack) en visualizaciones en 3D, algunas de las cuales [podemos obtener gratuitamente](https://quivervision.com/coloring-packs) y [recursos educativos](https://quivervision.com/education-portal).
 
 ![](../images/animal-cell.jpg)
 
 
 #### [MergeCube](https://mergeedu.com/cube)
 
-Se trata de una aplicación ([Merge viewer o Merge Explorer)(https://mergeedu.com/cube)]que cuando apuntamos a un "mergecube"
+Se trata de una aplicación [Merge viewer o Merge Explorer](https://mergeedu.com/cube) que cuando apuntamos a un "mergecube"
 
 ![](../images/merge-cube.jpg)
-
 
 Nos muestra contenidos de realidad aumentada
 
 ![](../images/merge_image3.gif)
 
 Podemos comprar el mergecube o [construirlo con papel/cartulina](https://support.mergeedu.com/hc/en-us/articles/360052933492-Making-a-Merge-Paper-Cube)
+
+Existen muchos contenidos gratuitos disponibles en [](https://www.miniverse.io/home)
+
+### Otras aplicaciones
 
 En estas relaciones puedes encontrar otras aplicaciones
 
