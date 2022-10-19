@@ -1,8 +1,8 @@
-# Curso de Iniciación a la Programación, Robótica, 3D y a la Realidad Aumentada para CEP de Granada ([211811GE132](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/211811GE132/))
+# Curso de Iniciación a la Programación, Robótica, 3D y a la Realidad Aumentada para CEP de Granada 
 
 ## Curso del CEP de Granada
 
-Febrero-Marzo 2020
+Octubre 2022
 
 ## José Antonio Vacas @javacasm 
 
